@@ -9,6 +9,7 @@ Repository ini berisi **reproduksi kode + ringkasan + penjelasan teori per chapt
 ## Status Progress
 - ✅ Chapter 01 — Selesai
 - ✅ Chapter 02 — Selesai
+- ✅ Chapter 03 — Selesai
 - ⏳ Chapter 03–19 — Belum dikerjakan / dalam proses
 
 ## Struktur Repository
@@ -45,7 +46,8 @@ Repository ini berisi **reproduksi kode + ringkasan + penjelasan teori per chapt
 |---:|:---:|---|---|
 | 01 | ✅ | The Machine Learning Landscape | `notebooks/ch01_machine_learning_landscape.ipynb` |
 | 02 | ✅ | End-to-End Machine Learning Project | `notebooks/ch02_end_to_end_ml_project.ipynb` |
-| 03 | ⏳ | Classification | `notebooks/ch03_classification.ipynb` |
+| 03 | ✅ | Classification | `notebooks/ch03_classification.ipynb` |
+`notebooks/ch03_classification.ipynb` |
 | 04 | ⏳ | Training Models | `notebooks/ch04_training_models.ipynb` |
 | 05 | ⏳ | Support Vector Machines | `notebooks/ch05_support_vector_machines.ipynb` |
 | 06 | ⏳ | Decision Trees | `notebooks/ch06_decision_trees.ipynb` |
