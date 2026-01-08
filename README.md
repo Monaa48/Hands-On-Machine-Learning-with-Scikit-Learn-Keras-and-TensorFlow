@@ -10,7 +10,7 @@ Repository ini berisi **reproduksi kode + ringkasan + penjelasan teori per chapt
 - ✅ Chapter 01 — Selesai
 - ✅ Chapter 02 — Selesai
 - ✅ Chapter 03 — Selesai
-- ⏳ Chapter 03–19 — Belum dikerjakan / dalam proses
+- ⏳ Chapter 04–19 — Belum dikerjakan / dalam proses
 
 ## Struktur Repository
 - `notebooks/` — notebook per chapter (kode + ringkasan + teori)
