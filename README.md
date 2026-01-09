@@ -14,7 +14,6 @@ This repository contains **code reproductions, chapter summaries, and theoretica
 ## Repository Structure
 - `notebooks/` — one notebook per chapter (code + summary + theory)
 - `scripts/` — helper scripts (optional)
-- `assets/` — images/snapshots/experiment outputs (optional)
 
 ## How to Run (Google Colab)
 1. Open any `.ipynb` file inside `notebooks/`.
